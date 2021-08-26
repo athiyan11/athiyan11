@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @athiyan11
+- 👀 I’m interested in electronics and PCB designing.
+- 🌱 I’m currently learning embedded design and STM32 automation.
+- 💞️ I’m looking to collaborate on low-power embedded design. 
+- 📫 Reach me  
+  --- athiamaan99@gmail.com 
+ --- https://www.linkedin.com/in/athiamaan-r/
